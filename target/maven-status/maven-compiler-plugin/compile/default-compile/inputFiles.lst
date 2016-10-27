@@ -1,0 +1,17 @@
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\service\FriendsService.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\jpaRepository\FriendsRepository.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\jpaRepository\UsersRepository.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\controller\FriendsController.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\controller\HomeController.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\model\Users.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\service\UsersService.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\controller\CreateAccountController.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\controller\LoginController.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\jpaRepository\FriendRepositoryImpl.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\jpaRepository\PersonalInformationRepository.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\model\PersonalInformation.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\service\PersonalInformationService.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\service\StringVerification.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\model\Friends.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\jpaRepository\UsersRepositoryImpl.java
+H:\Spring\Workspace\CRMSystem\src\main\java\com\daabzor\crm\database\jpaRepository\PersonalInformationRepositoryImpl.java
